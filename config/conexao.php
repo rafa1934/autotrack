@@ -2,7 +2,7 @@
 
 $host = "sql301.infinityfree.com";
 $user = "if0_42184127";
-$password = "D:bsVuYxpEq2Mh9";
+$password = "AutoTrack123";
 $database = "if0_42184127_autotrack";
 
 $conn = new mysqli($host, $user, $password, $database);
