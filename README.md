@@ -35,7 +35,7 @@ sql/
 
 5. Abrir o navegador:
 
-http://localhost/AutoTrack
+(https://autotrackrafa.infinityfreeapp.com/AutoTrack/)
 
 ### Usuários para teste
 
