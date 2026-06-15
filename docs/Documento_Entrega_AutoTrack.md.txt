@@ -1,0 +1,38 @@
+# Documento de Entrega - AutoTrack
+
+Aluno: Rafael Caccer Flehr
+
+Curso: Análise e Desenvolvimento de Sistemas
+
+Projeto: AutoTrack - Sistema de Gerenciamento de Ordens de Serviço
+
+## Link do Projeto
+
+https://github.com/rafa1934/autotrack
+
+## Funcionalidades Implementadas
+
+| Funcionalidade | Status | Observação |
+|---------------|---------|------------|
+| Login de usuários | Implementada | Controle de acesso por perfil |
+| Cadastro de Ordem de Serviço | Implementada | Realizado pela oficina |
+| Listagem de Ordens de Serviço | Implementada | Exibição conforme perfil |
+| Aprovação de Ordem de Serviço | Implementada | Realizada pelo gestor |
+| Reprovação de Ordem de Serviço | Implementada | Realizada pelo gestor |
+| Observação do gestor | Implementada | Justificativa da análise |
+| Alteração de valores da OS | Implementada | Oficina pode atualizar valores |
+| Controle de status | Implementada | Pendente, Aprovada e Reprovada |
+| Logout | Implementada | Encerramento da sessão |
+
+## Tecnologias Utilizadas
+
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- XAMPP
+
+## Considerações
+
+O sistema foi desenvolvido para auxiliar oficinas mecânicas no gerenciamento de Ordens de Serviço, permitindo cadastro, análise, aprovação, reprovação e acompanhamento dos serviços realizados.
